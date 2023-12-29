@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h3>Things I code with</h3>
 <p>
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-45d8af?style=flat-square&logo=vue&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
 </p>
 
 <!--
