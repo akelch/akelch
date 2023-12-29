@@ -1,4 +1,8 @@
 ### Hi there 👋
+<h3>Things I code with</h3>
+<p>
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-45d8af?style=flat-square&logo=vue&logoColor=white" />
+</p>
 
 <!--
 **akelch/akelch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
