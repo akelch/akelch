@@ -1,3 +1,5 @@
+
+<img src="https://github-readme-stats.vercel.app/api?username=akelch&theme=dark&show_icons=true&hide_rank=true&include_all_commits=true&hide=stars,contribs" width="350" align="right" />
 <h3>languages and tools</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
